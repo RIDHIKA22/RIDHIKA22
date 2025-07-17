@@ -64,8 +64,3 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/RIDHIKA22/RIDHIKA22/output/snake.svg" alt="Snake animation" />
-
-###
